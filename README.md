@@ -1,4 +1,5 @@
 ![logo](https://i.ibb.co/12j381q/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <h1 align="center">Hi 👋, I'm MD ZAHID HASAN</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh!</h3>
 
