@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **a personal project...**
 
-- 🌱 I’m currently learning **Next JS...**
+- 🌱 I’m currently learning **Backend development **
 
-- 👯 I’m looking to collaborate on **a team project.**
+- 👯 I’m looking to collaborate on **a team project as a backend developer**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://zahid-hasan.vercel.app)
 
@@ -38,7 +38,7 @@
 ## Languages and Tools:
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,next,express,mongodb,firebase,tailwind,html,css,git,github,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,next,express,mongodb,firebase,tailwind,html,css,git,github,postman,figma,redux" />
   </a>
 </p>
 
