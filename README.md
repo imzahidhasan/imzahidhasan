@@ -38,7 +38,7 @@
 ## Languages and Tools:
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,next,express,mongodb,firebase,tailwind,html,css,git,github,postman,figma,redux,mysql,linux,npm,vite,vscode&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,react,next,express,mongodb,firebase,tailwind,html,css,git,github,postman,figma,redux,mysql,linux,npm,vite,vscode&perline=10" />
   </a>
 </p>
 
